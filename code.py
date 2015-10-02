@@ -2,7 +2,7 @@
 
 print "hello world "
 
-print " you are beautiful"
+print " you are beautiful girls"
 
 print "I am third "
 print "I am third "
