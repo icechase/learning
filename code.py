@@ -20,4 +20,8 @@ I am the first state.
 I am the second version.
 I am the newidea.
 I am the version 1.03
+I am still Master.
+
+I am gonna start my jobs on dev-branch.
+I have started my work on third clone.
 
